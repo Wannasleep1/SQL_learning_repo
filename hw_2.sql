@@ -38,3 +38,6 @@ CREATE TABLE IF NOT EXISTS tracks (
 )
 
 DROP TABLE IF EXISTS tracks CASCADE;
+
+
+SELECT (' ' IN 'kok') FROM music;
